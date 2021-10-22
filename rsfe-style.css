@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;}
+
+p  {text-align: justify;}
+
+div#p1 { text-shadow: rgba(139, 0, 139, 0.603) 1px 1px 2px;
+          text-align: center;}
+div#p2 { text-shadow: rgba(139, 0, 139, 0.596) 1px 1px 2px;
+          text-align: center;}
+div#p3 { text-shadow: rgba(139, 0, 139, 0.637) 1px 1px 2px;
+          text-align: center;}
+
+main {
+    background-color: #38ee00;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: rgb(1, 109, 1) 20px 20px 20px;
+    width: 700px;
+    padding: 20px;
+    margin: auto}
+
+h1 {color: rgb(250, 75, 244);}
+h2 {color:whitesmoke;}
+
+body {
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, #3D3D3D, #121212);
+    
+
+}
